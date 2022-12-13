@@ -1,5 +1,4 @@
-{
-  "LastName": "Arora",
-  "FirstName": "Ashish",
-  "StudentID": "200508182"
-}
+Student Name: Ashish Arora
+Student Number: 200508182
+Date Completed: 12 dec 2022
+Group (Monday/Thursday): Monday

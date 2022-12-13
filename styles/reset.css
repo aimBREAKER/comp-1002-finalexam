@@ -149,7 +149,16 @@ table {
 }
 
 /* DEFAULTS */
-body {
-    width: 1280px !important;
+#main-content {
+    max-width: 1280px !important;
     margin: 0 auto !important;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+img {
+    width: 100%;
 }
